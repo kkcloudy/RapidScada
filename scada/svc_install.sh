@@ -6,3 +6,6 @@ chmod +x ./scadaserver
 update-rc.d scadaserver defaults
 chmod +x ./scadacomm
 update-rc.d scadacomm defaults
+chmod +x ./apache2
+update-rc.d apache2 defaults
+
